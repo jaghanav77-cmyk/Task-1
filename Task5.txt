@@ -1,0 +1,4 @@
+product-catalog/
+├── index.html
+├── style.css
+└── script.js
